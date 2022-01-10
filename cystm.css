@@ -134,6 +134,7 @@ background:  #ead2a8 ;
 }
 #under{
 	text-decoration: none;
+	color: white;
 }
 #under:hover{
 	color: #65909A;
